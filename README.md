@@ -13,5 +13,13 @@ same => n,Playback(Lenny/Lenny${i})
 same => n,BackgroundDetect(Lenny/backgroundnoise,1500)
 </pre>
 
-Then copy the audio file in /var/lib/asterisk/sounds/en/Lenny directory
+Next, use WinSCP to copy the Lenny sound files into /var/lib/asterisk/sounds/Lenny
+(you may have to create the /Lenny directory).
 
+
+
+
+
+
+Source of information:
+https://crosstalksolutions.com/howto-pwn-telemarketers-with-lenny/
