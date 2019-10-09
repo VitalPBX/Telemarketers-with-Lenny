@@ -16,10 +16,17 @@ same => n,BackgroundDetect(Lenny/backgroundnoise,1500)
 Next, use WinSCP to copy the Lenny sound files into /var/lib/asterisk/sounds/Lenny
 (you may have to create the /Lenny directory).
 
+Now create a Custom Context in VitalPBX for which you have to go to PBX/Applications/ Custom Contexs. It has to be seen as shown below
 
+images/VitalPBX_Lenny_Custom_Context.png
 
+Then go to Custom Applications for which you have to go to PBX/Applications/Custom Applications
 
+images/VitalPBX_Lenny_Custom_Applications.png
 
+Finally apply changes and call 2525 and try to sell something to Lenny.
+
+We hope you enjoy it.
 
 Source of information:
 https://crosstalksolutions.com/howto-pwn-telemarketers-with-lenny/
