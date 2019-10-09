@@ -31,7 +31,7 @@ Then create a Custom Application in VitalPBX for which you have to go to PBX/App
 
 Now apply changes and call 2525 and try to sell something to Lenny.
 
-:smile: :smile: **We hope you enjoy it.
+:smile: :smile: ** ** We hope you enjoy it.
 
 Now we are going to get serious and we are going to put our project into production, for which we first need to know the Caller ID of each of the Telemarketing that call us daily.
 
