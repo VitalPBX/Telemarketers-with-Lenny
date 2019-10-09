@@ -46,6 +46,6 @@ For example we have Caller ID 18001234567, the configuration would be as shown b
 
 [Crosstalk Solutions](https://crosstalksolutions.com/howto-pwn-telemarketers-with-lenny/)
 
-[![HowTo: PWN Telemarketers with Lenny]((https://www.youtube.com/watch?v=RRhRImp6kKQ)
+[![HowTo: PWN Telemarketers with Lenny](https://www.youtube.com/watch?v=RRhRImp6kKQ)
 
 [Pitch-perfect prank: 'Lenny' answers the campaign's call](https://ottawacitizen.com/news/local-news/pitch-perfect-prank-lenny-answers-the-politicians-call)
