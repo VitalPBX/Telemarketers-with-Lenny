@@ -12,3 +12,6 @@ same => n,ExecIf($[${i}=1]?MixMonitor(${UNIQUEID}.wav))
 same => n,Playback(Lenny/Lenny${i})
 same => n,BackgroundDetect(Lenny/backgroundnoise,1500)
 </pre>
+
+Then copy the audio file in /var/lib/asterisk/sounds/en/Lenny directory
+
