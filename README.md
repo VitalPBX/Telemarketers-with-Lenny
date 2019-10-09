@@ -29,9 +29,20 @@ Then create a Custom Application in VitalPBX for which you have to go to PBX/App
 
 ![Custom Applications](images/VitalPBX_Lenny_Custom_Applications.png)
 
-Finally apply changes and call 2525 and try to sell something to Lenny.
+Now apply changes and call 2525 and try to sell something to Lenny.
 
 We hope you enjoy it.
 
+Now we are going to get serious and we are going to put our project into production, for which we first need to know the caller ID of each of the Telemarketing that call us daily.
+
+For example we have Caller ID 18001234567, the configuration would be as shown below.
+
+![Custom Applications](images/VitalPBX_Lenny_Inbound_Route.png)
+
+We hope you enjoy this small but very important project.
+
+
 **Source of information:
 [Crosstalk Solutions](https://crosstalksolutions.com/howto-pwn-telemarketers-with-lenny/)
+
+[Pitch-perfect prank: 'Lenny' answers the campaign's call](https://ottawacitizen.com/news/local-news/pitch-perfect-prank-lenny-answers-the-politicians-call)
