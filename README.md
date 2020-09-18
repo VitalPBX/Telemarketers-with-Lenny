@@ -3,10 +3,10 @@ Telemarketers are the worst. They have no souls. They feed off of the misery of 
 
 Setting up Lenny in VitalPBX is a pretty simple task, and is also a really nice primer into Asterisk custom contexts, and the power of scripting.
 
-First, you will want to create the Lenny context in Asterisk. SSH into your VitalPBX and use your favorite editor to edit /etc/asterisk/ombutel/extensions__80_lenny.conf. Add the following lines of code:
+First, you will want to create the Lenny context in Asterisk. SSH into your VitalPBX and use your favorite editor to edit /etc/asterisk/vitalpbx/extensions__80_lenny.conf. Add the following lines of code:
 
 <pre>
-vi /etc/asterisk/ombutel/extensions__80_lenny.conf
+vi /etc/asterisk/vitalpbx/extensions__80_lenny.conf
 
 [Lenny]
 exten => talk,1,Set(i=${IF($["0${i}"="016"]?7:$[0${i}+1])})
